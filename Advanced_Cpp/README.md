@@ -7,14 +7,14 @@ Advance Level
 
 1) Classes and Objects in C++
 
-    Defining Classes
-        create a class
-    Defining Objects
-        create an object of the class
-    Member Functions
-    To create a function
-    Encapsulation
-    Data Abstraction
+    <br><t> Defining Classes
+        <br><t><t> create a class
+    <br><t> Defining Objects
+        <br><t> create an object of the class
+    <br><t> Member Functions
+    <br><t> To create a function
+    <br><t> Encapsulation
+    <br><t> Data Abstraction
 
 
 2) Constructor and Destructor
