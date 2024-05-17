@@ -1,4 +1,4 @@
-# class and Objects
+# Class and Objects
 
 ### Learning Objective
 * Classes
