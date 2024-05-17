@@ -7,10 +7,8 @@ Advance Level
 
 1) Classes and Objects in C++
 
-    <br><t> Defining Classes
-        <br><t><t> create a class
-    <br><t> Defining Objects
-        <br><t> create an object of the class
+    Defining Classes: create a class
+    <br><t> Defining Objects: create an object of the class
     <br><t> Member Functions
     <br><t> To create a function
     <br><t> Encapsulation
@@ -19,55 +17,55 @@ Advance Level
 
 2) Constructor and Destructor
 
-    Constructor and Destructor
-    To create a constructor
-    Parameterized constructors
-    Default constructor
-    Destructor
+     Constructor and Destructor
+    <br><t> To create a constructor
+    <br><t> Parameterized constructors
+    <br><t> Default constructor
+    <br><t> Destructor
 
 
 3) static members in C++
 
     Static Keyword
-    Static variable
-    Static member function
+    <br><t> Static variable
+    <br><t> Static member function
 
 
 4) Inheritance
 
     Inheritance
-    Concept of subclass and superclass
-    Types of inheritance
-    Single level inheritance
-    Multilevel inheritance
+    <br><t> Concept of subclass and superclass
+    <br><t> Types of inheritance
+    <br><t> Single level inheritance
+    <br><t> Multilevel inheritance
 
 
 5) More on Inheritance
 
-    Multiple Inheritance
-    Derived class inherits from more than one base class
-    Hierarchical Inheritance
-    Multiple derived classes inherit from one base class
+     Multiple Inheritance
+    <br><t> Derived class inherits from more than one base class
+    <br><t> Hierarchical Inheritance
+    <br><t> Multiple derived classes inherit from one base class
 
 
 6) Function overloading and overriding
 
-    Function overloading
-    Function overriding
-    Difference between both
+     Function overloading
+    <br><t> Function overriding
+    <br><t> Difference between both
 
 
 7) Polymorphism in C++
 
-    Polymorphism
-    Virtual Members
-    Virtual Function
+     Polymorphism
+    <br><t> Virtual Members
+    <br><t> Virtual Function
 
 
 8) Abstract class in C++
 
     Pure virtual function
-    abstract methods
+    <br><t> abstract methods
 
 
 9) Friend Function
@@ -78,7 +76,7 @@ Advance Level
 10) Exception Handling
 
     Exceptions
-    try
-    throw
-    catch
+    <br><t> try
+    <br><t> throw
+    <br><t> catch
 
