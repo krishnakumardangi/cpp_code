@@ -52,6 +52,14 @@ void search_node(struct node* p, int x)
 		cout<<"Element not found!\n";
 }
 
+struct node* delete_node(struct node* p)
+{
+	struct node* next_node;
+	next_node = p->next;
+	free(p);
+	return next_node;
+}
+
 
 int main()
 {
@@ -77,6 +85,9 @@ int main()
 	cout<<"Enter a value to search it in given List.";
 	cin>>x;
 	search_node(Head, x);
+	
+	Head = delete_node(Head);
+	display(Head);
 	
 	return 0;
 }
