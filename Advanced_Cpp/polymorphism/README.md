@@ -10,6 +10,15 @@
 * Polymorphism is the ability to take different forms.
 * It is the mechanism to use a function with same name in different ways.
 
+## Types of Polymorphism
+* Polymorphism
+	* Compile Time
+		* Function Overloading (In C++, we can use two functions having the same name if they have different parameters (either types or number of arguments).)
+		* Operator Overloading (In C++, we can overload an operator as long as we are operating on user-defined types like objects or structures.)
+	* Run Time
+		* Virtual Functions
+
+
 
 ## Virtual Functions
 * virtual function is the member function of a class.
